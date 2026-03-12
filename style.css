@@ -202,7 +202,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "software Developer";
+    content: "Curioso";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -261,5 +261,6 @@ span{
         margin-top: 4rem;
     }
 }
+
 
 
