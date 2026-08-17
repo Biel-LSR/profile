@@ -315,7 +315,7 @@ section {
 }
 
 .about-img {
-    height: 100vh;
+    height: 500px;
     width: 100%;
     display: block;
     transition: var(--transition);
